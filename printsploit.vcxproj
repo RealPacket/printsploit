@@ -161,6 +161,12 @@
   <ItemGroup>
     <ClCompile Include="dllmain.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadME.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\Screenshot.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

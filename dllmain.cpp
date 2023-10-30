@@ -28,7 +28,6 @@ void entry() {
     const auto printFunc = reinterpret_cast<print*>(offset(Offsets::rPrint));
 
     printFunc(ELogType::INFO, messageToPrint);
-
 }
 
 BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserved)
