@@ -6,7 +6,7 @@ This is a guide on how to update the offsets for `rPrint` (for the people who do
 but for now,
 this'll do.**
 **Please follow this as it's written,
-I can't garuntee that you'll
+I can't guarantee that you'll
 get the real print address if you miss 1 or 5 steps**
 
 ## Requirements
